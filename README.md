@@ -1,2 +1,2 @@
-- Implementation of stack using Array with fxn's.
+- Implementation of [stack](https://github.com/Arjun-coder5/Stack-/blob/main/Stack.java) using Array with fxn's.
 - LL Implementation of Stack With fxn's.
