@@ -1,2 +1,2 @@
-- Implementation of [stack](https://github.com/Arjun-coder5/Stack-/blob/main/Stack.java) using Array with fxn's.
+- [Implementation](https://github.com/Arjun-coder5/Stack-/blob/main/implementation_stack.java) of [stack](https://github.com/Arjun-coder5/Stack-/blob/main/Stack.java) using Array with fxn's.
 - LL Implementation of Stack With fxn's.
