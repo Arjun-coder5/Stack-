@@ -1,6 +1,6 @@
 - [Implementation](https://github.com/Arjun-coder5/Stack-/blob/main/implementation_stack.java) of [stack](https://github.com/Arjun-coder5/Stack-/blob/main/Stack.java) using Array with fxn's.
 - [LL Implementation](https://github.com/Arjun-coder5/Stack-/blob/main/implementation_stack_ll.java) of [Stack](https://github.com/Arjun-coder5/Stack-/blob/main/ll_stack.java) With fxn's.
-- Delete Mid OF a Stack .
+- [Delete Mid OF a Stack](https://github.com/Arjun-coder5/Stack-/blob/main/delete_mid_stack.java) .
 - Balance Paranthesis.
 - Parenthesis checker.
 - 
